@@ -1,4 +1,4 @@
-# Urna-eletr-nica
+# Urna-eletronica
 Projeto do IFRN - urna eletrônica finalizado. Com ele pode-se alterar algumas variáveis e torná-lo versátil a diferentes necessidades.
 Consiste em uma votação entre a disciplina mais show de bola do IF, apresentando a tabela com as disciplinas e seus respectivas numerações,
 assim que escolhido a urna apresenta o nome do docente da matéria e pede ao usuário confirmar sua escolha, logo que é pressionado o space, a escolha
